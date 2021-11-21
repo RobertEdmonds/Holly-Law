@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: rgba(129, 8, 8, 0.842);
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: cornflowerblue;
+}
+#law{
+    padding: 0px;
+    margin-left: 750px;
+    position: fixed;
+    z-index: 2;
+}
+#rightStatement{
+    margin-left: 1200px;
+    Padding-top: 0px;
+    width: 500px;
+    position: fixed;
+    z-index: 3;
+}
+#missionStatement{
+    padding-top: 0px;
+    margin-left: 200px;
+    width: 500px;
+    position: fixed;
+    z-index: 1;
+}
