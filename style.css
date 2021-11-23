@@ -49,3 +49,51 @@ body{
     margin-top: 650px;
     position: absolute;
 }
+#person2Name{
+    margin-left: 250px;
+    padding-top: 100px;
+    position: relative;
+    font-style: italic;
+}
+#person2Story{
+    margin-left: 250px;
+    padding-top: 10px;
+    width: 700px;
+    position: relative;
+}
+#sucess2{
+    margin-top: 100px;
+    position: absolute;
+}
+#person3Name{
+    margin-left: 250px;
+    padding-top: 100px;
+    position: relative;
+    font-style: italic;
+}
+#person3Story{
+    margin-left: 250px;
+    padding-top: 10px;
+    width: 700px;
+    position: relative;
+}
+#success3{
+    margin-top: 100px;
+    position: absolute;
+}
+#person4Name{
+    margin-left: 250px;
+    padding-top: 100px;
+    position: relative;
+    font-style: italic;
+}
+#person4Story{
+    margin-left: 250px;
+    padding-top: 10px;
+    width: 700px;
+    position: relative;
+}
+#success4{
+    margin-top: 100px;
+    position: absolute;
+}
